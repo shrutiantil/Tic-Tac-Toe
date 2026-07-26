@@ -75,9 +75,7 @@ const resetgame=()=>{turnO=true;
         
           {showWinner(pos1Val);}
            
-         
 
-          
            } 
         
         }
